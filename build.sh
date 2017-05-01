@@ -16,7 +16,7 @@ export CROSS_COMPILE=${HOME}/android/uberbuild/out/aarch64-linux-android-6.x/bin
 DEFCONFIG="sharkey_defconfig"
 
 # Kernel Details
-VER=".R5.EXP.Pixel"
+VER=".R6.EXP.Pixel"
 
 # Paths
 KERNEL_DIR=`pwd`
